@@ -2,23 +2,136 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PortfolioHUB</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+    }
+
+    header {
+      background: #111827;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 10px 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      color: #94a3b8;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px;
+    }
+
+    .profile {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: -30px;
+    }
+
+    .profile img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #38bdf8;
+    }
+
+    .profile-info h2 {
+      margin: 0;
+    }
+
+    .section {
+      margin-top: 30px;
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+    }
+
+    .section h3 {
+      margin-bottom: 15px;
+      color: #38bdf8;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #64748b;
+      margin-top: 30px;
+    }
+  </style>
 </head>
+
 <body>
 
-  <h1>📁 PortfolioHUB</h1>
-  <p>Bem-vindo ao meu portfólio de projetos acadêmicos e pessoais.</p>
+  <header>
+    <h1>📁 PortfolioHUB</h1>
+    <p>Bem-vindo ao meu portfólio de projetos acadêmicos e pessoais</p>
+  </header>
 
-  <h2>📂 Projetos</h2>
-  <ul>
-    <li>Sistema de Login</li>
-    <li>Gerador de QR Code</li>
-    <li>Slides Canva</li>
-  </ul>
+  <div class="container">
 
-  <h2>🔗 Links</h2>
-  <a href="https://github.com/SEU-USUARIO">GitHub</a><br>
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+    <!-- Perfil -->
+    <div class="profile">
+      <img src="https://via.placeholder.com/150" alt="Minha Foto">
+      <div class="profile-info">
+        <h2>Seu Nome</h2>
+        <p>Desenvolvedor em formação | HTML • CSS • JavaScript</p>
+      </div>
+    </div>
+
+    <!-- Projetos -->
+    <div class="section">
+      <h3>📂 Projetos</h3>
+      <ul>
+        <li>Sistema de Login</li>
+        <li>Gerador de QR Code</li>
+        <li>Slides Canva</li>
+      </ul>
+    </div>
+
+    <!-- Links -->
+    <div class="section">
+      <h3>🔗 Links</h3>
+      <p>
+        <a href="https://github.com/SEU-USUARIO" target="_blank">GitHub</a><br>
+        <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+      </p>
+    </div>
+
+  </div>
+
+  <footer>
+    © 2026 PortfolioHUB — Feito com HTML e CSS
+  </footer>
 
 </body>
 </html>
