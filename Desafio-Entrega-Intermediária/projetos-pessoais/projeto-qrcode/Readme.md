@@ -18,7 +18,7 @@ O projeto utiliza uma biblioteca externa para realizar a criação dos QR Codes 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Linguagens Utilizadas
 
 - HTML
 - CSS
