@@ -10,7 +10,7 @@ Criado com o objetivo de praticar conceitos de desenvolvimento web full stack, c
 - Manipulação de sessões
 - Organização de interface web
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 
 - HTML
 - CSS
