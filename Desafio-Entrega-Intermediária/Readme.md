@@ -29,8 +29,8 @@ PortfolioHUB/
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git
 - GitHub
