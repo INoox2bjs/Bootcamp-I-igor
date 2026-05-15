@@ -27,7 +27,7 @@ PortfolioHUB/
 
 ---
 
-## Tecnologias Utilizadas
+## Linguagens Utilizadas
 
 - HTML
 - CSS
