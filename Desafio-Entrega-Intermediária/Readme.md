@@ -50,7 +50,7 @@ https://SEU-USUARIO.github.io/PortfolioHUB/
 Seu Nome
 
 GitHub:
-https://github.com/seu-usuario
+https://github.com/INoox2bjs
 
 LinkedIn:
-https://linkedin.com/in/seu-perfil
+https://www.linkedin.com/in/igor-gon%C3%A7alves-oliveira-8839a8353/
