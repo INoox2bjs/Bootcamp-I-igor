@@ -19,10 +19,9 @@ O objetivo principal é demonstrar conhecimentos em:
 
 ```bash
 PortfolioHUB/
-├── docs/
+├── Readme.md
 ├── projetos-academicos/
 ├── projetos-pessoais/
-├── documentacao/
 └── slides/
 ```
 
