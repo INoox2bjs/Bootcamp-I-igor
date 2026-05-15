@@ -41,7 +41,7 @@ PortfolioHUB/
 
 Acesse o site publicado:
 
-https://SEU-USUARIO.github.io/PortfolioHUB/
+https://inoox2bjs.github.io/Bootcamp-I-igor/
 
 ---
 
