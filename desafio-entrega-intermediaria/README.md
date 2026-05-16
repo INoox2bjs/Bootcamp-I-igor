@@ -47,7 +47,7 @@ https://inoox2bjs.github.io/Bootcamp-I-igor/
 
 ## Autor
 
-Seu Nome
+Igor Gonçalves Oliveira
 
 GitHub:
 https://github.com/INoox2bjs
